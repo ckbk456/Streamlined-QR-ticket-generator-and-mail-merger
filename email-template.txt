@@ -1,0 +1,3 @@
+Chúc mừng bạn [NAME]
+Bạn đã đăng ký thành công lớp học [CLASS_].
+Thay mặt ban tổ chức chúng mình xin phép gửi đến bạn vé check-in trong tệp đính kèm.
